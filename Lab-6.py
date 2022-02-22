@@ -2,6 +2,6 @@ name = input("Enter your name: ")
 number = input("Enter a nuumber: ")
 number = int(number)
 while number > 0:
-  print("Your name is ", name, ", "and your number is ", number )
+  print(name)
   number -= 1
 
